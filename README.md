@@ -1,0 +1,13 @@
+# j5y17ltexx-user 9 PPR1.180610.011 J530FXXS7CTF1 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: j5y17lte
+- flavor: j5y17ltexx-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: J530FXXS7CTF1
+- tags: release-keys
+- fingerprint: samsung/j5y17ltexx/j5y17lte:9/PPR1.180610.011/J530FXXS7CTF1:user/release-keys
+- brand: samsung
+- branch: j5y17ltexx-user-9-PPR1.180610.011-J530FXXS7CTF1-release-keys
+- repo: samsung_j5y17lte_dump
